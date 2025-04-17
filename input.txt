@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines of text.
+Python can read and modify this content
+Today Is a good day
+The sun is sunning Today
